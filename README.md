@@ -42,4 +42,4 @@ python vision2.py
 
 visualization of `data/000001.bin` of KIITI training dataset:
 
-![](vision2.bmp)
+![](photo/vision2.bmp)
