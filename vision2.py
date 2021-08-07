@@ -2,7 +2,7 @@ import mayavi.mlab
 import torch
 import numpy as np
 
-mypointcloud=np.fromfile("data/000002.bin",dtype=np.float32,count=-1).reshape([-1,4])
+mypointcloud=np.fromfile("data/000001.bin",dtype=np.float32,count=-1).reshape([-1,4])
 mypointcloud=torch.from_numpy(mypointcloud)
 print(mypointcloud.size())
 print(mypointcloud.type())
