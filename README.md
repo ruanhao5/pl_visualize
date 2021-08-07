@@ -33,7 +33,7 @@ python vision1.py
 
 visualization of `data/000000.bin` of KIITI training dataset:
 
-![](vision1.bmp)
+![](photo/vision1.bmp)
 
 
 ```bash
