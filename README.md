@@ -48,3 +48,9 @@ python vision2.py
 visualization of `data/000001.bin` of KIITI training dataset:
 
 ![](photo/vision2.bmp)
+
+## 显示bbox和朝向
+
+[mayavi 显示bbox 和 朝向_梦醒时分1218的博客-CSDN博客](https://blog.csdn.net/qq_35632833/article/details/107714582)
+
+待验证
