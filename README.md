@@ -12,10 +12,13 @@ KITTI data had downloaded in `data` directory. I just put some sample of trainin
 
 访问 https://www.lfd.uci.edu/~gohlke/pythonlibs/，下载以下四个whl（python3.6版本，win64位）文件：
 
-> mayavi-4.6.2+vtk81-cp36-cp36m-win_amd64（和下面的VTK版本对应）
->  PyQt4-4.11.4-cp36-cp36m-win_amd64
->  traits-4.6.0-cp36-cp36m-win_amd64
->  VTK-8.1.2-cp36-cp36m-win_amd64
+> mayavi-4.6.2+vtk81-cp36-cp36m-win_amd64（注意：是带vtk版本的mayavi，而且和下面的VTK版本对应）
+>
+> PyQt4-4.11.4-cp36-cp36m-win_amd64
+>
+> traits-4.6.0-cp36-cp36m-win_amd64
+>
+> VTK-8.1.2-cp36-cp36m-win_amd64
 
 终端 cd 到 whl 存放目录，执行如下命令开始安装（**安装顺序为 PyQt、traits、VTK、mayavi**）
 
