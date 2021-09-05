@@ -20,7 +20,7 @@ KITTI data had downloaded in `data` directory. I just put some sample of trainin
 
 其实上面的版本已经找不到了，但是只要是python3.6版本的就行。
 
-我目前使用的是miniconda下的python3.6环境，对应的包放在`lib`文件夹下。
+我目前使用的是miniconda下的python3.6环境，对应的包放在`library`文件夹下。
 
 终端 cd 到 whl 存放目录，执行如下命令开始安装（**安装顺序为 PyQt、traits、VTK、mayavi**）
 
